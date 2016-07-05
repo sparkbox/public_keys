@@ -1,0 +1,3 @@
+- [ ] Key is generated using instructions from README
+- [ ] File name is unique and identifies you
+- [ ] File is the public key and not the private key
